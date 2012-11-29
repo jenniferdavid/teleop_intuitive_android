@@ -1,5 +1,6 @@
 teleop_intuitive_android
 ========================
+This repository contains source code for [ROS](http://www.ros.org) based Android teleoperation application for robots.
 
 Application Name 
 ----------------
@@ -20,8 +21,8 @@ Version: 0.1
 Details
 -------
 * Android
-	Android API: 10
-	SDK Version: 20.0.3
+    * Android API: 10
+    * SDK Version: 20.0.3
 * rosjava_core
 * google
 * android_core
