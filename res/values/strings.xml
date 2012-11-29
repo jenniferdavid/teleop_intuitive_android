@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">TeleopIntuitiveAndroid</string>
+	<string name="forward">F</string>
+	<string name="left_forward">L F</string>
+	<string name="right_foward">R F</string>
+	<string name="stop">Stop</string>
+	<string name="rotate_anticlockwise">R A</string>
+	<string name="rotate_clockwise">R C</string>
+	<string name="backward">B</string>
+	<string name="right_backward">R B</string>
+	<string name="left_backward">L B</string>
+
+</resources>

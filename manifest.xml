@@ -1,0 +1,10 @@
+<package>
+	<description brief="teleop_intuitive_android">
+		teleop_intuitive_android
+	</description>
+	<author>Ashish Ranjan</author>
+	<license>Apache 2.0</license>
+	<review status="unreviewed" notes=""/>
+	<url>http://ros.org/wiki/teleop_intuitive_android</url>
+</package>
+

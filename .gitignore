@@ -1,0 +1,10 @@
+##### ranjanashish: Android Application Ignore List #####
+
+# ignore all files in the bin/ directory
+bin/
+# ignore all files in the gen/ directory
+gen/
+
+# ignore standard stuff
+*~
+*.o
